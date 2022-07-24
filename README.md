@@ -2,7 +2,8 @@
 
 - 주식회사 콘센트에서 리액트 네이티브를 개발하고 있는 고영일입니다. 응애...
 
-- 이것도 좀 보고가주세여...
+~~이것도 좀 보고가주세여...~~
+
 [![INnoVatioN-97's GitHub stats](https://github-readme-stats.vercel.app/api?username=INnoVatioN-97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
