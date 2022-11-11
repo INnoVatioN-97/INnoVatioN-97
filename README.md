@@ -1,4 +1,6 @@
 ### Who the fuck are you?
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Zero!&fontSize=90)
+
 
 - 주식회사 콘센트에서 리액트 네이티브를 개발하고 있는 고영일입니다. 응애...
 
