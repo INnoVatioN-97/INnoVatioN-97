@@ -13,7 +13,7 @@
 <div>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
-JAVA(이미지 없음 ㅂㄷㅂㄷ)
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 </div>
 
 ---
