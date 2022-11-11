@@ -1,5 +1,5 @@
 ### Who the fuck are you?
-![header](https://capsule-render.vercel.app/api?type=wave&color=F6C109&height=450&section=header&text=I'm%20Zero!&fontColor=101010&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F6C109&height=450&section=header&text=I'm%20Zero&desc=from%20concent&descAlign=62&fontColor=101010&fontSize=90)
 
 
 - 주식회사 콘센트에서 리액트 네이티브를 개발하고 있는 고영일입니다. 응애...
@@ -19,6 +19,7 @@ JAVA(이미지 없음 ㅂㄷㅂㄷ)
 ---
 
 **Frontend**
+
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>
@@ -31,6 +32,7 @@ JAVA(이미지 없음 ㅂㄷㅂㄷ)
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
 </div>
 
 ---
@@ -58,8 +60,6 @@ JAVA(이미지 없음 ㅂㄷㅂㄷ)
 **etc**
 
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
-
-
 
 ---
 
