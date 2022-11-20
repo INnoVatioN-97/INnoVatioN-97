@@ -1,8 +1,8 @@
-### Who the fuck are you?
+### Who the hell am I?
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F6C109&height=450&section=header&text=I'm%20Zero&desc=from%20concent&descAlign=62&fontColor=101010&fontSize=90)
 
 
-- 주식회사 콘센트에서 리액트 네이티브를 개발하고 있는 고영일입니다. 응애...
+- 주식회사 콘센트에서 리액트 네이티브 클라이언트와 스프링부트 서버를 개발하고 있는 고영일입니다. 응애...
 
 ~~이것도 좀 보고가주세여...~~
 
@@ -79,6 +79,7 @@
     - 기존 롯데에서 운영중이던 Wyd의 커머스 기능을 커뮤니티앱인 iTOO에 기능 이식 및 뷰작업 참여
 - 2022.6 ~ (주) 콘센트 Fullstack Developer
   - 이지만 현재 앱만 개발중 응애.
+  - 이었다가 장렬히 백앤드개발도 겸하는 중.
 <!--
 **INnoVatioN-97/INnoVatioN-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
