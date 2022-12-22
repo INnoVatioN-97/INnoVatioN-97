@@ -7,7 +7,10 @@
 
 ~~이것도 좀 보고가주세여...~~
 
-[![INnoVatioN-97's GitHub stats](https://github-readme-stats.vercel.app/api?username=INnoVatioN-97&show_icons=true&theme=dark&count_private=true)](https://github.com/INnoVatioN-97)
+[![INnoVatioN-97's GitHub stats](https://github-readme-stats.vercel.app/api?username=INnoVatioN-97&show_icons=true&theme=onedark&count_private=true)](https://github.com/INnoVatioN-97)
+
+[![INnoVatioN-97's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INnoVatioN-97&theme=onedark&layout=compact)](https://github.com/INnoVatioN-97)
+
 
 **Avaliable languages**
 
