@@ -7,7 +7,7 @@
 
 ~~이것도 좀 보고가주세여...~~
 
-[![INnoVatioN-97's GitHub stats](https://github-readme-stats.vercel.app/api?username=INnoVatioN-97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![INnoVatioN-97's GitHub stats](https://github-readme-stats.vercel.app/api?username=INnoVatioN-97&show_icons=true&theme=dark)](https://github.com/INnoVatioN-97)
 
 **Avaliable languages**
 
