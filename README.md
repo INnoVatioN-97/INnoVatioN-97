@@ -1,9 +1,17 @@
-### Who the hell am I
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=F6C109&height=450&section=header&text=I'm%20Zero&desc=from%20concent&descAlign=62&fontColor=101010&fontSize=90)
+### ??? : 나로 말할것 같으면.
 
 
-- 주식회사 콘센트에서 리액트 네이티브 클라이언트와 스프링부트 서버를 개발하고 있는 고영일입니다. 응애...
+![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=540&section=header&text=I'm%20Youngil&desc=from%20GrowingLab&descAlign=67&fontColor=FF9D00&fontSize=90)
+
+
+
+```
+
+ GrowingLab에서 백앤드개발을 맡고 있는 고영일입니다.
+
+```
+---
+
 
 ~~이것도 좀 보고가주세여...~~
 
@@ -18,6 +26,7 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
 ---
@@ -37,6 +46,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
 </div>
 
 ---
@@ -81,9 +92,13 @@
         - 안드로이드 네이티브
   - 롯데홈쇼핑 iTOO 고도화
     - 기존 롯데에서 운영중이던 Wyd의 커머스 기능을 커뮤니티앱인 iTOO에 기능 이식 및 뷰작업 참여
-- 2022.6 ~ (주) 콘센트 Fullstack Developer
+- 2022.6 ~ 2023.04 (주) 콘센트 Backend Developer
   - 이지만 현재 앱만 개발중 응애.
   - 이었다가 장렬히 백앤드개발도 겸하는 중.
+  - 경영악화로 폭-발
+- 2023.04 ~ GrowingLab
+  - 기업 투자비서 플랫폼 Butler API서버 및 어드민 서버 개발
+
 <!--
 **INnoVatioN-97/INnoVatioN-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
