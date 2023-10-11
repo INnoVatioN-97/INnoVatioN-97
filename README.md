@@ -80,7 +80,7 @@
 
 **주요 약력**
 - 2016.2 성사고등학교 이과 졸업
-- 2017.03 ~ 18.12 강원도 철원에서 감자를 씹어먹으며 국비지원 629박 630일 병영캠프 졸업 <img src="https://i.namu.wiki/i/rzXkqEnOP9e8-WYCRTCBT54oflRClVp8bu96i2afFbpMJg25G2kurucaOe_smjE2f0AKQQ3Y22IRCcfuFOqeDVhOVLDfmKpdiMC_FCP-g887z6YOwZ5jxgMLNHD-yXc_ykf6CY5wPhUPhQzzyDTrkw.svg" />
+- 2017.03 ~ 18.12 강원도 철원에서 감자를 씹어먹으며 국비지원 629박 630일 병영캠프 졸업 <img src="https://i.namu.wiki/i/rzXkqEnOP9e8-WYCRTCBT54oflRClVp8bu96i2afFbpMJg25G2kurucaOe_smjE2f0AKQQ3Y22IRCcfuFOqeDVhOVLDfmKpdiMC_FCP-g887z6YOwZ5jxgMLNHD-yXc_ykf6CY5wPhUPhQzzyDTrkw.svg" width="32" height="32"/>
 - 2021.2 명지전문대학 전자공학과 졸업
 - 2022.2 명지전문대학 전자공학과 학사학위 전공심화과정 졸업
 - 2022.1 ~ 6 (주)브릭메이트 JAVA Developer
