@@ -89,11 +89,9 @@
   - 롯데홈쇼핑 iTOO 고도화
     - 기존 롯데에서 운영중이던 Wyd의 커머스 기능을 커뮤니티앱인 iTOO에 기능 이식 및 뷰작업 참여
 - 2022.6 ~ 2023.04 (주) 콘센트 Backend Developer
-  - 이지만 현재 앱만 개발중 응애.
-  - 이었다가 장렬히 백앤드개발도 겸하는 중.
-  - 경영악화로 폭-발
-- 2023.04 ~ GrowingLab
-  - 기업 투자비서 플랫폼 Butler API서버 및 어드민 서버 개발
+  - 리액트네이티브 앱 / 스프링부트 백앤드 개발
+- 2023.04 ~ GrowingLab Backend Developer
+  - 투자비서 버틀러 서버개발
 
 <!--
 **INnoVatioN-97/INnoVatioN-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
