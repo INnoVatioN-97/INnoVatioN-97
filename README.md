@@ -1,7 +1,7 @@
 ### ??? : 나로 말할것 같으면.
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=540&section=header&text=I'm%20Youngil&desc=from%20GrowingLab&descAlign=33.8&fontColor=FF9D00&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=540&section=header&text=I'm%20Youngil&desc=from%20GrowingLab&descAlign=33.8&fontColor=664EFA&fontSize=90)
 
 
 
