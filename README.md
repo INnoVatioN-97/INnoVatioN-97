@@ -57,6 +57,7 @@
 <div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MaridDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 </div>
 
 ---
@@ -69,7 +70,6 @@
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MaridDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
  
 </div>
 
