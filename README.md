@@ -4,7 +4,7 @@ logger.info("안녕하세요");
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=540&section=header&text=I'm%20Youngil&desc=from%20GrowingLab&descAlign=33.8&fontColor=664EFA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=540&section=header&text=I'm%20Youngil&desc=Backend%20Developer&descAlign=33.8&fontColor=664EFA&fontSize=90)
 
 
 
