@@ -94,8 +94,14 @@ logger.info("안녕하세요");
     - 기존 롯데에서 운영중이던 Wyd의 커머스 기능을 커뮤니티앱인 iTOO에 기능 이식 및 뷰작업 참여
 - 2022.6 ~ 2023.04 (주) 콘센트 Backend Developer
   - 리액트네이티브 앱 / 스프링부트 백앤드 개발
-- 2023.04 ~ GrowingLab Backend Developer
+- 2023.04 ~ 2024.09 GrowingLab Backend Developer
   - 투자비서 버틀러 서버개발
+- 2024.11 ~ PocaskE&M Fullstack Developer
+  - 퍼포먼스마케팅 기반 광고 솔루션 포인트크러쉬 풀스택 개발
+  - Kafka 기반의 크롤링 서버 개발
+ 
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=INnoVatioN-97)](https://github.com/marshallku/gitgarden)
+
 
 <!--
 **INnoVatioN-97/INnoVatioN-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
