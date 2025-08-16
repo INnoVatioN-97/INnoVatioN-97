@@ -51,10 +51,10 @@ Kafka, Redis, Tor, On-premise 구축 경험까지 쌓아가며, 서비스 문제
 
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TencentCloud-3458B0?style=flat&logo=TencentCloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=S3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </div>
 
 ---
