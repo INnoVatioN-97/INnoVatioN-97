@@ -1,4 +1,3 @@
-
 ```java
 logger.info("안녕하세요 👋");
 ```
@@ -24,54 +23,37 @@ Kafka, Redis, Tor, On-premise 구축 경험까지 쌓아가며, 서비스 문제
 
 ## 🧠 Available Languages
 
-<div>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
-</div>
+[![Available Languages](https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,dart,python&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 💻 Frontend
 
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-</div>
+[![Frontend](https://skillicons.dev/icons?i=react,androidstudio,nextjs,flutter,vite&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 🔧 Backend
 
-<div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
-</div>
+[![Backend](https://skillicons.dev/icons?i=spring,nestjs,express,django&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 🗃 Database
 
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
-</div>
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## ⚙️ DevOps & Infra
 
+[![Database](https://skillicons.dev/icons?i=docker,jenkins&theme=dark)](https://skillicons.dev)
+
 <div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=S3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </div>
 
@@ -79,22 +61,26 @@ Kafka, Redis, Tor, On-premise 구축 경험까지 쌓아가며, 서비스 문제
 
 ## 🗂️ Career Summary
 
-- **2021.12 ~ 2022.06** `브릭메이트`  
-  - 연세대 Smart RMR: 스프링부트 + 리액트 + 안드로이드 네이티브  
-  - 롯데홈쇼핑 iTOO: 기존 커머스 기능 이식 및 뷰 작업 참여  
+-   **2024.11 ~ 현재** `포캐스크 이엔엠`
 
-- **2022.06 ~ 2023.04** `콘센트`  
-  - RN 기반 앱 개발  
-  - Springboot 백엔드 API 개발
+    -   포인트크러쉬: 리워드 기반 광고 플랫폼 백엔드/어드민/알림 서버 개발
+    -   NestJS + Kafka 기반 대규모 크롤링 시스템 운영
+    -   Tor 기반 우회 크롤링 / 온프레미스 인프라 도입 경험 있음
 
-- **2023.04 ~ 2024.08** `그로잉랩`  
-  - 투자비서 버틀러 플랫폼 백엔드 전반 개발  
-  - NestJS, TypeORM 기반 프레임워크 고도화
+-   **2023.04 ~ 2024.08** `그로잉랩`
 
-- **2024.11 ~ 현재** `포캐스크 이엔엠`  
-  - 포인트크러쉬: 리워드 기반 광고 플랫폼 백엔드/어드민/알림 서버 개발  
-  - NestJS + Kafka 기반 대규모 크롤링 시스템 운영  
-  - Tor 기반 우회 크롤링 / 온프레미스 인프라 도입 경험 있음  
+    -   투자비서 버틀러 플랫폼 백엔드 전반 개발
+    -   NestJS, TypeORM 기반 프레임워크 고도화
+
+-   **2022.06 ~ 2023.04** `콘센트`
+
+    -   RN 기반 앱 개발
+    -   Springboot 백엔드 API 개발
+
+-   **2021.12 ~ 2022.06** `브릭메이트`
+
+    -   연세대 Smart RMR: 스프링부트 + 리액트 + 안드로이드 네이티브
+    -   롯데홈쇼핑 iTOO: 기존 커머스 기능 이식 및 뷰 작업 참여
 
 ---
 
