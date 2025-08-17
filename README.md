@@ -35,7 +35,7 @@ Kafka, Redis, Tor, On-premise 구축 경험까지 쌓아가며, 서비스 문제
 
 ## 🔧 Backend
 
-[![Backend](https://skillicons.dev/icons?i=spring,nestjs,express,django&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,nestjs,express,django,nodejs&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -45,9 +45,15 @@ Kafka, Redis, Tor, On-premise 구축 경험까지 쌓아가며, 서비스 문제
 
 ---
 
+## 📦 Build & Package Management
+
+[![Build & Package](https://skillicons.dev/icons?i=npm,yarn,pnpm,maven,gradle&theme=dark)](https://skillicons.dev)
+
+---
+
 ## ⚙️ DevOps & Infra
 
-[![Database](https://skillicons.dev/icons?i=docker,jenkins&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=docker,jenkins,kafka&theme=dark)](https://skillicons.dev)
 
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/>
